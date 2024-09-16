@@ -179,14 +179,16 @@ video{
     column-gap: 320px;   
     color: rgb(46,24,96);
     background-color: rgb(210,245,236);
-    height: 6vh;
+    height: 5vh;
 }
 
 .fa-brands{
-    border-radius: 50px;
-    font-size: 10px;
-    padding: 9px;
-    background-color: rgb(190, 234, 220);     
+    border-radius: 40px;
+    font-size: 8px;
+    padding: 8px;
+    background-color: rgb(190, 234, 220); 
+    
+
 }
 .box{
     border: 2px solid red;
